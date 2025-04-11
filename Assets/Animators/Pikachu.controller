@@ -42,13 +42,13 @@ AnimatorStateMachine:
     m_Position: {x: 360, y: 330, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 5231302447009296411}
-    m_Position: {x: 120, y: 300, z: 0}
+    m_Position: {x: 30, y: 250, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 4828804301477283579}
-    m_Position: {x: 620, y: 360, z: 0}
+    m_Position: {x: 590, y: 330, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 7587392877022988392}
-    m_Position: {x: 655, y: 425, z: 0}
+    m_Position: {x: 120, y: 330, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -136,7 +136,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PikaDamage
+  m_Name: PikachuDamage
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
